@@ -113,7 +113,7 @@
   name: endlessh
   activation_prefix: endlessh_
 - src: git+https://github.com/mother-of-all-self-hosting/ansible-role-etcd.git
-  version: v3.6.0-0
+  version: v3.6.1-0
   name: etcd
   activation_prefix: etcd_
 - src: git+https://github.com/mother-of-all-self-hosting/ansible-role-etherpad.git
@@ -165,7 +165,7 @@
   name: funkwhale
   activation_prefix: funkwhale_
 - src: git+https://github.com/mother-of-all-self-hosting/ansible-role-ghostfolio.git
-  version: v2.165.0-0
+  version: v2.167.0-0
   name: ghostfolio
   activation_prefix: ghostfolio_
 - src: git+https://github.com/mother-of-all-self-hosting/ansible-role-gitea.git
@@ -189,7 +189,7 @@
   name: healthchecks
   activation_prefix: healthchecks_
 - src: git+https://github.com/mother-of-all-self-hosting/ansible-role-homarr.git
-  version: v1.22.0-0
+  version: v1.23.0-0
   name: homarr
   activation_prefix: homarr_
 - src: git+https://github.com/mother-of-all-self-hosting/ansible-role-hubsite.git
@@ -541,11 +541,11 @@
   name: wg_easy
   activation_prefix: wg_easy_
 - src: git+https://github.com/mother-of-all-self-hosting/ansible-role-woodpecker-ci-agent.git
-  version: v3.6.0-3
+  version: v3.7.0-0
   name: woodpecker_ci_agent
   activation_prefix: woodpecker_ci_agent_
 - src: git+https://github.com/mother-of-all-self-hosting/ansible-role-woodpecker-ci-server.git
-  version: v3.6.0-2
+  version: v3.7.0-0
   name: woodpecker_ci_server
   activation_prefix: woodpecker_ci_server_
 - src: git+https://github.com/mother-of-all-self-hosting/ansible-role-wordpress
